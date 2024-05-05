@@ -1,8 +1,0 @@
-ID: CHOCO1 - Location: (-626.20, 17.54, -587.17)
-ID: CHOCO2 - Location: (-636.89, 29.82, -602.69)
-ID: CHOCO3 - Location: (-647.22, 17.60, -544.36)
-ID: CHOCO4 - Location: (-564.20, 20.09, -641.14)
-ID: CHOCO5 - Location: (-653.64, 26.63, -619.07)
-ID: CHOCO6 - Location: (-623.85, 26.55, -643.67)
-ID: CHOCO7 - Location: (-611.52, 20.70, -589.86)
-ID: CHOCO8 - Location: (-643.55, 20.28, -608.97)
